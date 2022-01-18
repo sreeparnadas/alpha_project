@@ -1,0 +1,6 @@
+[submodule "alpha_api"]
+	path = alpha_api
+	url = https://github.com/sreeparnadas/alpha_api.git
+[submodule "alpha_angular"]
+	path = alpha_angular
+	url = https://github.com/sreeparnadas/alpha_angular.git
