@@ -4,3 +4,6 @@
 [submodule "alpha_angular"]
 	path = alpha_angular
 	url = https://github.com/sreeparnadas/alpha_angular.git
+[submodule "production_alpha"]
+	path = production_alpha
+	url = https://github.com/sreeparnadas/production_alpha.git
